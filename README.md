@@ -1,5 +1,5 @@
-<H3> Name : Rishi M </H3>
-<H3>Register No: 212222230119</H3>
+<H3> Name : SELVAGANESH R </H3>
+<H3>Register No: 212223230200</H3>
 <H3> Experiment 1</H3>
 <H3>DATE:08.04.2025</H3>
 <H1 ALIGN=CENTER> Implementation of Bayesian Networks</H1>
